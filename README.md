@@ -34,6 +34,3 @@ Need help or want to chat with other users? Join our Discord: [Click here to joi
 
 ---
 
-## License
-
-This project is open-source. Use it freely and modify as needed.
