@@ -78,14 +78,6 @@ end)
 
 
 
-
------------------------------ extra ----------------------------------
------------- simple code that turns commands into keybinds -----------
---   On   - elseif IsControlJustReleased(1, 344) then -    - 344 -  is where the keybind goes, do not change the 1, keybinds link - https://docs.fivem.net/docs/game-references/controls/  --
---   On   - ExecuteCommand("fpsmenu") -  ("")  is where the command goes   --  
-----------------------------------------------------------------------------------
-
-
 ----------------------------------------------------------------------------------
 --                                  EXTRA                                         --
 ----------------------------------------------------------------------------------
@@ -119,3 +111,4 @@ Citizen.CreateThread(function()
         end
     end
 end)
+
